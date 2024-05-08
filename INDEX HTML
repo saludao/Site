@@ -1,0 +1,78 @@
+INDEX HTML:
+
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cozinheiro Mao Braba</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Sobre Mim</a>
+                </li>
+                <li>
+                    <a href="project.html">Projetos</a>
+                </li>
+                <li>
+                    <a href="contact.html">Contato</a>
+                </li>
+            </ul>
+        </nav>
+    
+        <header>
+            <div class="center">
+                <img src="./img/pai.jpg"></img>
+            </div>
+            <h1>José Ilton</h1>
+            <h2>O Cabra Bom de Cozinha</h2>
+        </header>
+    
+        <main>
+            <section>
+                <h3>Sobre José </h3>
+                <p>
+                    No coração de uma pequena vila no interior do Brasil, nasceu um menino com um talento excepcional para a culinária. Desde muito cedo, ele demonstrou uma habilidade incomum na arte de cozinhar. Seus pais, donos de um modesto restaurante local, notaram o potencial do filho e o incentivaram a explorar esse dom.
+    
+                    Assim, o menino, que logo seria conhecido como "O Cabra Bom de Cozinha", passava seus dias na cozinha do restaurante, observando atentamente cada movimento, cada ingrediente, e absorvendo todo o conhecimento transmitido pelos cozinheiros experientes que lá trabalhavam.
+                    Com o passar dos anos, o Cabra Bom de Cozinha aprimorou suas habilidades, experimentando novas técnicas, criando receitas únicas e desenvolvendo um paladar refinado. Ele se tornou um aprendiz dedicado, sempre em busca de novos desafios e conhecimentos.
+    
+    Sua paixão pela culinária era evidente em cada prato que preparava, e logo sua fama começou a se espalhar além das fronteiras da vila. Pessoas de todas as partes vinham saborear suas delícias gastronômicas, encantadas com a magia que ele conseguia criar com os ingredientes mais simples.
+                </p>
+            </section>
+            <section>
+                <h3>Formação de José</h3>
+                <p>
+                    Determinado a expandir seus horizontes, o Cabra Bom de Cozinha decidiu deixar sua vila natal em busca de novas experiências culinárias. Ele viajou por todo o país, trabalhando em restaurantes renomados, estudando com chefs famosos e absorvendo as diversas influências da culinária regional brasileira.
+    
+                    Sua jornada o levou a lugares inimagináveis, onde ele conheceu ingredientes exóticos, técnicas ancestrais e culturas culinárias fascinantes. Cada nova experiência enriquecia ainda mais seu repertório e o transformava em um verdadeiro mestre da arte da cozinha.
+                </p>
+            </section>
+            <section>
+                <h3>Restaurantes</h3>
+                <p>
+                    À medida que sua fama crescia, o Cabra Bom de Cozinha decidiu realizar seu sonho de abrir seu próprio restaurante. Com sua vasta experiência e reputação estabelecida, ele encontrou investidores dispostos a apoiar sua visão.
+    
+                    Assim nasceu o primeiro restaurante do Cabra Bom de Cozinha, um espaço acolhedor e elegante que refletia sua paixão pela culinária brasileira, com um toque de criatividade e inovação. O local rapidamente se tornou um ponto de referência na cena gastronômica, atraindo tanto os locais quanto turistas ávidos por uma experiência única.
+                    
+                    Com o sucesso do primeiro restaurante, o Cabra Bom de Cozinha viu a oportunidade de expandir seu império gastronômico. Ele abriu novos estabelecimentos em cidades importantes ao redor do país, cada um com sua própria identidade e proposta culinária, mas todos mantendo o padrão de excelência e originalidade que se tornou sua marca registrada.
+                </p>
+            </section>
+            <section>
+                <h3>Filosofia Culinaría</h3>
+                <p>
+                    Apesar de sua crescente rede de restaurantes, o Cabra Bom de Cozinha permaneceu fiel aos seus princípios culinários. Ele acreditava firmemente em usar ingredientes frescos e sazonais, valorizando os produtores locais e respeitando as tradições culinárias de cada região.
+    
+    Além disso, ele estava empenhado em promover uma culinária sustentável e responsável, buscando minimizar o desperdício de alimentos e adotando práticas eco-friendly em todas as suas cozinhas.
+    
+    Essa filosofia não apenas conquistou os paladares dos clientes, mas também inspirou outros chefs a repensarem sua abordagem à gastronomia, transformando o Cabra Bom de Cozinha em um líder de opinião na indústria culinária.
+                </p>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
